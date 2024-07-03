@@ -1,0 +1,69 @@
+{
+    "routes": [
+        {
+            "from": "/about/stadium-bike-east-pg97.htm",
+            "status": 301,
+            "to": "/locations/stadium-bike-east/"
+        },
+        {
+            "from": "/about/stadium-bike-west-pg98.htm",
+            "status": 301,
+            "to": "/locations/stadium-bike-west/"
+        },
+        {
+            "from": "/about/trek-store-stevens-point-pg101.htm",
+            "status": 301,
+            "to": "/locations/trek-store-stevens-point/"
+        },
+        {
+            "from": "/about/trek-store-wausau-pg99.htm",
+            "status": 301,
+            "to": "/locations/trek-store-wausau/"
+        },
+        {
+            "from": "/about/trek-store-sheboygan-pg147.htm",
+            "status": 301,
+            "to": "/locations/trek-store-sheboygan/"
+        },
+        {
+            "from": "/articles/professional-bike-fitting-pg119.htm",
+            "status": 301,
+            "to": "/bike-fitting/"
+        },
+        {
+            "from": "/articles/repair-services-pg120.htm",
+            "status": 301,
+            "to": "/bike-repair/"
+        },
+        {
+            "from": "/about/why-buy-from-us-pg56.htm",
+            "status": 301,
+            "to": "/about/"
+        },
+        {
+            "from": "/articles/privacy-policy-pg135.htm",
+            "status": 301,
+            "to": "/privacy-policy/"
+        },
+        {
+            "from": "/storelocator/",
+            "status": 301,
+            "to": "/contact/"
+        },
+        {
+            "from": "/articles/people-for-bikes-pg71.htm",
+            "status": 301,
+            "to": "/about/"
+        },
+        {
+            "from": "/articles/the-bicycle-a-clean-green-perfect-machine-pg72.htm",
+            "status": 301,
+            "to": "/about/"
+        },
+        {
+            "from": "/articles/trade-in-your-used-bike-pg164.htm",
+            "status": 301,
+            "to": "/bike-trade-in/"
+        }
+    ]
+}
