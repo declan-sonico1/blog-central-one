@@ -50,5 +50,12 @@
       <guid>/blog/sustainability-101/</guid>
       <description>The buzzword &amp;ldquo;sustainability&amp;rdquo; is prevalent in the current global discourse, transcending environmental spheres and delving deep into the realm of businesses.</description>
     </item>
+    <item>
+      <title>Blog1</title>
+      <link>/blog/blog1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/blog/blog1/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
